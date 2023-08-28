@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: marianofavre79@gmail.com
 - 😄 Pronouns: he/him.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianofavre&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marianofavre&langs_count=8&theme=vision-friendly-dark)
