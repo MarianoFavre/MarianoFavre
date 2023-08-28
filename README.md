@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Mi empresa.
+- 🔭 I’m currently working on mi empresa but I'm looking to job with Java Backend Developer.
 - 🌱 I’m currently learning MySql.
 - 👯 I’m looking to collaborate on open source projects in Java,Spring Boot and MySql.
 - 📫 How to reach me: marianofavre79@gmail.com
