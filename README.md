@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_1k7iQUl2NY-jvZTkPbtbTCf324nhFgzNgsyKsfOYPEGCORUdfZHw0nzKvPqA-3BIqM8&usqp=CAU" title="IntellijIdea" **alt="IntellijIdea" width="80" height="40"/>&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtr_UwLdcHplmyJJfu0Bo5URadO_vI27I6AqiWJAlK123Vi-axeeaJnFPGKvIXr981g38&usqp=CAU" title="JUnit5 & Mockito" **alt="JUnit5 & Mockito" width="100" height="60"/>&nbsp;  
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtr_UwLdcHplmyJJfu0Bo5URadO_vI27I6AqiWJAlK123Vi-axeeaJnFPGKvIXr981g38&usqp=CAU" title="JUnit5 & Mockito" **alt="JUnit5 & Mockito" width="80" height="60"/>&nbsp;  
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" **alt="Azure" width="40" height="40"/>    
 </div>
 
